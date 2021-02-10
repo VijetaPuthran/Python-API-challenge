@@ -1,6 +1,6 @@
 # Python-API-challenge
 
-The task involves Python requests, APIs and JSON traversals and arrive at answers to weather related questions that takes into factors like latitude, temperature, cloudiness and wind speed. The data arrived at in the first part of the assignment is saved in a CSV file and this is used in the second part to create a data frame with ideal weather conditions and find the hotels in that vicinity.
+The task involves Python requests, APIs and JSON traversals and arrive at answers to weather related questions that takes into factors like latitude, temperature, cloudiness and wind speed. The data arrived at, in the first part of the assignment is saved in a CSV file and this is used in the second part to create a data frame with ideal weather conditions and find the hotels in that vicinity. The images of Heatmap and the Marker layer applied on the map depicting the hotel names are saved in the Images folder.
 
 The data analyzed can be summarized as follows:
 
