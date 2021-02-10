@@ -18,6 +18,6 @@ The correlation coefficient between the latitude and temperature is -0.87. This 
 
 * The correlation was calculated for Latitude and Cloudiness of regions as shown below.
 
-[NorthC](Images/NorthHemScatterplotLatitudevsCloudiness.png)
+![NorthC](Images/NorthHemScatterplotLatitudevsCloudiness.png)
 
 The correlation coefficient was found to be 0.07 and that indicates that the cloudiness of a location has negligible relation with the latitude. The cloudiness for the location were spread across the regions regardless of the latitude.
